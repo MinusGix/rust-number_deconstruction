@@ -1,5 +1,5 @@
 [package]
-name = "number_transformation"
+name = "number_deconstruction"
 version = "0.1.0"
 authors = ["MinusGix <minusgix@gmail.com>"]
 edition = "2018"
